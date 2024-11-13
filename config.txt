@@ -1,0 +1,11 @@
+[Calendar1]
+Header = Your Header Here
+CalendarName = Your Calendar Name
+ExcelFilePath = /path/to/your/excel1.xlsx
+
+[Calendar2]
+Header = Another Header
+CalendarName = Another Calendar
+ExcelFilePath = /path/to/your/excel2.xlsx
+
+# Add more calendars as needed

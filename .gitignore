@@ -1,0 +1,11 @@
+# Generated Output
+*.json
+
+# Python Virtual Environment
+venv/
+
+# macOS System Files
+.DS_Store
+
+# Ignore all temporary Excel files starting with ~$
+~$*.xlsx
