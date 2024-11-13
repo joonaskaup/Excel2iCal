@@ -8,7 +8,7 @@
 
 ## Example Image
 
-![Examples](Example_images/example_images.png)
+![Examples](Example_images/Example_images.png)
 
 ## Features
 
